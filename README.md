@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a Computer Science student at RIT with an interest in video games.
+I'm not currently working on any ongoing projects, though that may change as my classes get more involved.
+I might update this readme later, make it more tidy or comprehensive or stylized or something, but it's not exactly my highest priority.

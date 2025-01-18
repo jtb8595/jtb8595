@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 I'm a Computer Science student at RIT with an interest in video games.<br/>
 I'm not currently working on any ongoing projects, though that may change as my classes get more involved.<br/>
-I might update this readme later and make it more tidy, comprehensive, and/or stylized or something, but it's not my highest priority at the moment.<br/>
+I might update this readme later and make it more tidy, comprehensive, and/or stylized, but it's not my highest priority at the moment.<br/>
